@@ -1,6 +1,7 @@
 import React from 'react';
 import ColourList from './ColourList';
 import LanguageList from './LanguageList';
+import AnimalList from './AnimalList';
 
 class App extends React.Component {
   render() {
@@ -8,6 +9,7 @@ class App extends React.Component {
       <div className='container'>
         <ColourList/>
         <LanguageList/>
+        <AnimalList/>
       </div>
     )
   }
