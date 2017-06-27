@@ -15,4 +15,4 @@ class App extends React.Component {
   }
 }
 
-module.exports = App;
+export default App;

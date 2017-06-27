@@ -17,4 +17,4 @@ class ColourList extends React.Component {
   }
 }
 
-module.exports = ColourList;
+export default ColourList;

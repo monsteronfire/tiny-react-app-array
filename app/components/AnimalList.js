@@ -16,4 +16,4 @@ class AnimalList extends React.Component {
   }
 }
 
-module.exports = AnimalList;
+export default AnimalList;

@@ -16,4 +16,4 @@ class LanguageList extends React.Component {
   }
 }
 
-module.exports = LanguageList;
+export default LanguageList;
