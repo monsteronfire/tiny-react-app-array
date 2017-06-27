@@ -1,11 +1,11 @@
 import React from 'react';
-import ItemList from './ItemList';
+import ColourList from './ColourList';
 
 class App extends React.Component {
   render() {
     return (
       <div className='container'>
-        <ItemList/>
+        <ColourList/>
       </div>
     )
   }
